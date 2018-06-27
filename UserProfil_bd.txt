@@ -1,0 +1,4 @@
+profilId;libProfil;droits
+0001;Profil Consultation;
+0002;Profil Modification;
+0003;Profil Total;

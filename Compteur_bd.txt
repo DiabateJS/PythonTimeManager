@@ -1,0 +1,2 @@
+idCompteur;libCompteur;nbreCar;lastValue
+1;userCpt;5;00000

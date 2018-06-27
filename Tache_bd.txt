@@ -1,0 +1,1 @@
+idTache;idProjet;libTache;idUsers;dureeEstimee;dureeTotale;etatAvancement;tauxRealisation;dateDebut;dateFin

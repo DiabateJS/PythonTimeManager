@@ -1,0 +1,11 @@
+idUser;nomUser;loginUser;pwdUser;profilUserId
+00002;Lino Versace;lino.versace;lino2018;0005
+00003;Kamate Sory;kamate.sory;kams;0002
+00004;Kilo Delta;kilo.delta;kdel;0003
+00005;Kone Bernard;kone.bernard;kbern;0004
+00006;Fauquembergue Joel;jmf;joel;0004
+00007;Diabate Jean Sekou;jean.diabate;azerty;0003
+00008;Aurelie Bruyerre;aurelie.bruyerre;azerty;0003
+00009;Philipe Pet;philipe.pet;p;0003
+00010;Mokrani;mokrani.mariema;mm;0002
+00011;Lath Sess Akpa Michel;lath.sess;ls2018;0004
